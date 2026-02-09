@@ -22,9 +22,3 @@ Some quick things about me:
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" style="max-width: 100%;" width="40" height="40">
 
 <h3>30 Nites Of Code with <a href="https://codedex.io" target="_blank">Codédex</a>!</h3>
-
-Currently doing the
-**#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@janetspell68760/30-nites-of-code)  
-
-![@choisauce #30NitesOfCode](https://codedex.io/api/petStatus?user=janetspell68760)
