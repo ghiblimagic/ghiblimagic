@@ -8,7 +8,7 @@ Some quick things about me:
 
 🧜‍♀️: I love anything fantasy you name it: books, movie, novels, ect.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSMarsh813&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghiblimagic&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🧰 Languages and Tools:
 <p align="center">
