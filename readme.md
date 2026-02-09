@@ -1,6 +1,6 @@
 Hi there 👋
 
-Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+Thanks for visiting my GitHub profile, it's great to meet you here!
 
 Some quick things about me:
 
